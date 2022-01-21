@@ -1,0 +1,16 @@
+SQL Basics: (Syntax)
+
+-- To view the list of databases
+
+show databases;
+
+-- To select/use one specific database.
+
+use databasename;
+(e.g)  
+use informatica;
+
+-- To view the list of tables available in the database
+
+show tables;
+
