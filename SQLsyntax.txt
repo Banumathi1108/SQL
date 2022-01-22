@@ -14,3 +14,9 @@ use informatica;
 
 show tables;
 
+-- To view the rows in a table
+
+select * from tablename;
+(e.g)
+select * from city:
+
